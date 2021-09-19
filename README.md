@@ -6,11 +6,9 @@
 
 <h3>About me</h3>
 
-
-- 👩🏼‍💻 &nbsp; I’m currently working on [GROWI](https://growi.org/ja/) and [Webev]() projects.
-- 🌱 &nbsp; I'm currently learning React, Typescript, Node.js and Express.
-- :envelope_with_arrow: &nbsp; How to reach me &nbsp;[@cao19x](https://twitter.com/cao19x)
-- :yellow_heart: &nbsp; Lovely things: Snowbording, Hotspring, Animals, Trip.
+- 👩🏼‍💻 &nbsp; I’m currently working on [GROWI](https://growi.org/ja/) and [Webev]() projects.  
+- :yellow_heart: &nbsp; Lovely things: Snowbording, Hotspring, Animals, Trip.  
+- :envelope_with_arrow: &nbsp; How to reach me &nbsp;[@cao19x](https://twitter.com/cao19x)  
 
 <h3>Things I code with</h3>
 <p>
@@ -26,3 +24,5 @@
 
 [![cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaoritokashiki)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaoritokashiki&theme=vue)
+
+<h3>Where I visit</h3>
