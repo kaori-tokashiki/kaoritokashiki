@@ -7,4 +7,5 @@
 - 👩🏼‍💻 &nbsp; I’m currently working on [GROWI](https://growi.org/ja/) and [Webev]() projects.
 - 🌱 &nbsp; I'm currently learning React, Typescript, Node.js and Express.
 - :envelope_with_arrow: &nbsp; How to reach me :point_right: &nbsp;[@cao19x](https://twitter.com/cao19x)
-- :yellow_heart: &nbsp; My lovely things: Snowbording :snowman: :snowflake:  , Hotspring :hotsprings: , Animals :chipmunk: :hatching_chick: :hedgehog: :otter:
+- :yellow_heart: &nbsp; My lovely things: Snowbording :snowman: :snowflake:  , Hotspring :hotsprings: , Animals :chipmunk: :hatching_chick: :hedgehog: :otter:, Trip 
+:airplane:
