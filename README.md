@@ -6,10 +6,8 @@
 
 <h3>About me</h3>
 
-
 - 👩🏼‍💻 &nbsp; I’m currently working on [GROWI](https://growi.org/ja/) and [Webev]() projects.
-- 🌱 &nbsp; I'm currently learning React, Typescript, Node.js and Express.
-- :envelope_with_arrow: &nbsp; How to reach me &nbsp;[@cao19x](https://twitter.com/cao19x)
+- :envelope_with_arrow: &nbsp; How to reach me :point_right: [@cao19x](https://twitter.com/cao19x)
 - :yellow_heart: &nbsp; Lovely things: Snowbording, Hotspring, Animals, Trip.
 
 <h3>Things I code with</h3>
