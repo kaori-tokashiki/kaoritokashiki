@@ -22,5 +22,5 @@
 </p>
 
 
-[![cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaoritokashiki)](https://github.com/anuraghazra/github-readme-stats)
+[![cao's GitHub status](https://github-readme-stats.vercel.app/api?username=kaoritokashiki)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaoritokashiki&theme=vue)
