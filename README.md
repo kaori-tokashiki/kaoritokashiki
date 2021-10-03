@@ -7,7 +7,6 @@
 <h3>About me</h3>
 
 - 👩🏼‍💻 &nbsp; I’m currently working on [GROWI](https://growi.org/ja/) and [Webev]() projects.
-- :envelope_with_arrow: &nbsp; How to reach me :point_right: [@cao19x](https://twitter.com/cao19x)
 - :yellow_heart: &nbsp; Lovely things: Snowbording, Hotspring, Animals, Trip.
 
 <h3>Things I code with</h3>
